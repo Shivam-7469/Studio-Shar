@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Home, User, Briefcase, Settings, Mail, Star, Layers, Map, Compass, Palette, Maximize } from 'lucide-react';
 import { Project, Service } from './types';
